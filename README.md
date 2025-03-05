@@ -1,2 +1,4 @@
 # network_of_stickers
-This is the analysis of sources of stickers in light of Silvia Federicies concept of places of commons and practices of commoning
+This is the analysis of sources of stickers as a medium of places of commons in light of Silvia Federicies concept of places of commons and practices of commoning.
+
+„If commoning has any meaning, it must be the production of ourselves as a common subject. This is how we must understand the slogan ‘no commons without community.’ But ‘community’ has to be intended not as a gated reality, a grouping of people joined by exclusive interests separating them from others, as with communities formed on the basis of religion or ethnicity, but rather as a quality of relations, a principle of cooperation and of responsibility to each other and to the earth, the forests, the seas, the animals.” (Silvia Federici, Re-enchanting The World: Feminism and the Politics of the Commons (2018), 110.)
